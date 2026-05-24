@@ -1,0 +1,5 @@
+img {max-width: 1024px;}
+.age, .exp {
+  display: none;
+  color: white;
+}
