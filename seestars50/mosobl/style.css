@@ -3,3 +3,6 @@ img {max-width: 1024px;}
   display: none;
   color: white;
 }
+.img img {
+  max-width: 500px;
+}
