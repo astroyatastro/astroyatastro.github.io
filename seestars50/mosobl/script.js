@@ -5,6 +5,7 @@ const OBJTYPES = {
   pn: "Планетарная туманность",
   ga: "Галактика",
   en: "Эмиссионная туманность",
+  sol: "Объект Солнечной системы"
 };
 function toSort(classNam) {
   let sortFunction;
